@@ -1,0 +1,8 @@
+img{width: 250px;}
+#imagem img{ border: 2px greenyellow;
+    float:left ;
+    width: 200px;
+    margin: 20PX;
+}
+body{background-color: black;
+color: green;}

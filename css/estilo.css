@@ -1,0 +1,112 @@
+
+
+#cabecalho {
+    margin-left: 50px;
+    margin-right: 50px;
+    
+   
+    background-image: url(/img/Coronavirus-AbcReporter2.jpg);
+    background-size: 100%;
+    padding-bottom: 360px;
+    background-repeat: no-repeat;
+}
+
+#menu {
+    float: left;
+    
+}
+
+#menu li {
+    color: black;
+    list-style: none;
+    background-color: rgba(#808080, );
+    float: left;
+}
+
+#menu li a {
+
+    color: white;
+    padding: 14px 16px;
+    background-color: rgb(18, 51, 124);
+   
+}
+
+#menu li a:hover {
+    background-color: rgb(44, 16, 145);
+    color: black;
+}
+
+#conteudo {
+    width: 800px;
+    
+    
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center, justify;
+   background-image: url(/img/shutterstock_227460949.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+
+#conteudo p, h3, h1, h2 {
+    margin-left: 20px;
+    margin-right: 20px;
+    color: rgb(2, 2, 2);
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+
+table {
+    background-color: black;
+    border: solid 2px red;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+
+table td {
+    margin: 20px;
+    float: left;
+   
+}
+
+li {
+    color: white;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background-image: url(/img/original.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+    text-decoration: solid;
+    font-size: 14pt;
+    font-family: 'Times New Roman', Times, serif;
+    /*background-color: rgb(12, 14, 122);*/
+}
+
+#rodape {
+    margin-bottom: 20px;
+    margin-top: 10px;
+    background-color: rgb(51, 11, 97);
+    color: white;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+#rodape a {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14pt;
+}
+
+#prevencao img {
+    padding-left: 80px;
+}
+#outros{float: right;
+}
